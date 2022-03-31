@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p align="center"> 
+  Profile Views <br>
+  <img src="https://profile-counter.glitch.me/ziad729/count.svg" />
+</p>
 <!--
 **ziad729/ziad729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
