@@ -112,9 +112,15 @@
 
 ### Connect with me
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+<a href="mailto: ziadyousef623@gmail.com"> 
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="E-mail" />
+</a>
+<a href="https://www.linkedin.com/in/ziadatef/"> 
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" />
+</a>
+<a href="https://discord.com/users/592305094331072532"> 
+<img src="https://img.shields.io/badge/Ekko-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" title="Discord - Add Ekko #8393" />
+</a>
 
 </div>
 
